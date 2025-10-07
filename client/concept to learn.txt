@@ -1,0 +1,6 @@
+learn the concept of these project:
+1.react-router-dom
+	a.react-router-hook: useNavigate(), useParam(), useLocation()
+2.api call method like: sync, async, await async etc
+3. how to use useEffect and useState together
+4.learn how to destructure the object from array using map, slice, find method
